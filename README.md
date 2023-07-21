@@ -1,4 +1,4 @@
-# Aula15
+# Exercícios
 <div align="justify">
   
 1. Escreva um método para verificar se cada dígito de um
